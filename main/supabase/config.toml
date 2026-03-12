@@ -1,0 +1,4 @@
+project_id = "iygurlozsgsfpsypfozv"
+
+[functions.detect-weapon]
+verify_jwt = false
