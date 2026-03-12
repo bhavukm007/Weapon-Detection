@@ -10,10 +10,10 @@ This project focuses on providing a **clean interface, fast performance, and sca
 ## Screenshots
 
 ### Home Page
-<img width="1899" height="1018" alt="Screenshot 2026-03-08 084649" src="https://github.com/user-attachments/assets/294c12e8-1d57-4fe8-8237-10e73f73d853" />
+<img width="1899" height="1018" alt="Screenshot 2026-03-08 084649" src="https://github.com/user-attachments/assets/5bca7cd3-e6cf-4c0b-a14a-4a0f94a3c405" />
 
 ### Weapon Detection Result
-<img width="1918" height="1018" alt="Screenshot 2026-03-08 084906" src="https://github.com/user-attachments/assets/5743b94b-9cca-42f6-ba05-8667880b8e6a" />
+<img width="1918" height="1018" alt="Screenshot 2026-03-08 084906" src="https://github.com/user-attachments/assets/3642ad47-0bd6-4506-9b91-50b9549c9e4c" />
 
 ---
 
